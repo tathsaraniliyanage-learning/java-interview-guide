@@ -98,6 +98,19 @@ what is the all-args constructor do ?
 initializing the instance variables with provided values
 these constructors takes the arguments.
 
-what is jdk, jvm, JRE ?
+what is JDK, JVM, JRE ?
 
- 
+jdk stands for java development kit
+jvm stands for java vertual machine
+JRE stands for java runtime environment
+
+jdk, jvm ,JRE structure
+image.png
+
+what is the tasks of jvm ?
+
+The JVM performs the following main tasks:
+Loads code
+Verifies code
+Executes code
+Provides runtime environment
